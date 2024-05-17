@@ -1,6 +1,6 @@
-### Hi there 👋
+### Greetings 👋
 
-I'm a traversee of multiple Northcoders bootcamps; mentoring and educating students on Software Engineering, Data Engineering and Cloud Engineering 😎
+I'm a traversee of multiple Northcoders bootcamps; mentoring and educating students on Software Engineering, Data Engineering and Cloud Engineering 😎 I have been coding for over two years and I love to learn and explore new programming concepts, with a particular interest in algorithms and dynamic programming.
 
 ![Codewars](https://www.codewars.com/users/robert112233/badges/large)
 
