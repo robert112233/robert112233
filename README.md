@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a traversee of multiple Northcoders Bootcamps; mentoring on Software Engineering, Data Engineering and Cloud Engineering 😎
 
 ![Codewars](https://www.codewars.com/users/robert112233/badges/large)
 
