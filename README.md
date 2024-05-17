@@ -6,6 +6,7 @@ I'm a traversee of multiple Northcoders bootcamps; mentoring on Software Enginee
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robert112233&show_icons=true&theme=radical)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=robert112233)
 
 - 🔭 I’m currently working on a bird identification app using react native 🦅
 - 🌱 I’m currently learning python 🐍
